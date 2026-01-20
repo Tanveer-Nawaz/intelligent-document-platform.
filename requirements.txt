@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pydantic
+pdfplumber
+python-docx
+torch
+transformers
+sentence-transformers
+scikit-learn
+faiss-cpu
+nltk
